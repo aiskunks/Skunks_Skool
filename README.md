@@ -99,7 +99,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [S2DS](https://www.s2ds.org/)
 
 ## MOOC's
-[top](#awesome-data-science)
+[top](#skunks-skool)
 
 - [Coursera Introduction to Data Science](https://www.coursera.org/specializations/data-science)
 - [Data Science - 9 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/jhu-data-science)
@@ -138,7 +138,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Tutorials
-[top](#awesome-data-science)
+[top](#skunks-skool)
 
 - [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on browser with ipyton.
 - [#tidytuesday](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
@@ -163,7 +163,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Toolboxes - Environment
-[top](#awesome-data-science)
+[top](#skunks-skool)
 
 | Link | Description |
 | --- | --- |
@@ -376,7 +376,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Journals, Publications and Magazines
-[top](#awesome-data-science)
+[top](#skunks-skool)
 
 - [ICML](https://icml.cc/2015/) - International Conference on Machine Learning
 - [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - The Genetic and Evolutionary Computation Conference (GECCO)
@@ -392,7 +392,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications onTowards Data Science
 
 ## Presentations
-[top](#awesome-data-science)
+[top](#skunks-skool)
 
 - [How to Become a Data Scientist](https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
 - [Introduction to Data Science](https://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
@@ -407,7 +407,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Podcasts
-[top](#awesome-data-science)
+[top](#skunks-skool)
 
 - [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
 - [AI Today](https://www.cognilytica.com/aitoday/)
@@ -437,7 +437,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
 
 ## Books
-[top](#awesome-data-science)
+[top](#skunks-skool)
 
 - [Artificial Intelligence with Python - Tutorialspoint](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_tutorial.pdf)
 - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
@@ -502,7 +502,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 # Socialize
-[top](#awesome-data-science)
+[top](#skunks-skool)
 
 - [Bloggers](#bloggers)
 - [Facebook Accounts](#facebook-accounts)
@@ -513,7 +513,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Science Competitions](#competitions)
 
 ## Bloggers
-[top](#awesome-data-science)
+[top](#skunks-skool)
 
 - [Wes McKinney](https://wesmckinney.com/archives.html) - Wes McKinney Archives.
 - [Matthew Russell](https://miningthesocialweb.com/) - Mining The Social Web.
@@ -605,7 +605,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Facebook Accounts
-[top](#awesome-data-science)
+[top](#skunks-skool)
 
 - [Data](https://www.facebook.com/data)
 - [Big Data Scientist](https://www.facebook.com/Bigdatascientist)
@@ -631,7 +631,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Twitter Accounts
-[top](#awesome-data-science)
+[top](#skunks-skool)
 
 | Twitter | Description |
 | --- | --- |
@@ -703,7 +703,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Newsletters
-[top](#awesome-data-science)
+[top](#skunks-skool)
 
 - [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 - [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
@@ -711,7 +711,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Youtube Videos & Channels
-[top](#awesome-data-science)
+[top](#skunks-skool)
 
 - [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
 - [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
@@ -744,7 +744,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Telegram Channels
-[top](#awesome-data-science)
+[top](#skunks-skool)
 
 - [Open Data Science](https://t.me/opendatascience) – First Telegram Data Science channel. Covering all technical and popular staff about anything related to Data Science: AI, Big Data, Machine Learning, Statistics, general Math and the applications of former.
 - [Loss function porn](https://t.me/loss_function_porn) — Beautiful posts on DS/ML theme with video or graphic vizualization.
@@ -752,7 +752,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Slack Communities
-[top](#awesome-data-science)
+[top](#skunks-skool)
 
 - [DataTalks.Club](https://datatalks.club)
 
@@ -880,4 +880,3 @@ Some data mining competition platforms
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
-
