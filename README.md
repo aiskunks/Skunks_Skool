@@ -11,14 +11,22 @@ The programming languages _Python_ and _R_ dominate datascience. For visualizati
 
 - [Step 1 programming](#step-1-programming)
 
-## Programming
+## Step 1 Programming
 [top](#skunks-skool)
 TODO - add excellent learning python and R links here
 
 
 
+## Step 2
+TODO
 
 
+## Step 2
+TODO
+
+    
+
+## Resources
 
 - [Algorithms](#algorithms)
 - [Podcasts](#podcasts)
