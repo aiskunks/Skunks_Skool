@@ -7,6 +7,18 @@
 
 The programming languages _Python_ and _R_ dominate datascience. For visualization _Vega_,_Vega-Lite_ and _D3_ are excellent langauages.
 
+<img src='https://raw.githubusercontent.com/aiskunks/Skunks_Skool/main/Art/Skunks_Skool_Step1.png' />
+
+- [Step 1 programming](#step-1-programming)
+
+## Programming
+[top](#skunks-skool)
+TODO - add excellent learning python and R links here
+
+
+
+
+
 
 - [Algorithms](#algorithms)
 - [Podcasts](#podcasts)
