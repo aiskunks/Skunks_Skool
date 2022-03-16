@@ -9,7 +9,9 @@ The programming languages _Python_ and _R_ dominate datascience. For visualizati
 
 <img src='https://raw.githubusercontent.com/aiskunks/Skunks_Skool/main/Art/Skunks_Skool_Step1.png' />
 
-- [Step 1 programming](#step-1-programming)
+- [Step 1 programming](#step-1-programming)   
+- [Step 2 Build simple supervised models](#step-2-build-simple-supervised-models)   
+
 
 ## Step 1 Programming
 [top](#skunks-skool)
@@ -17,7 +19,7 @@ TODO - add excellent learning python and R links here
 
 
 
-## Step 2
+## Step 2 Build simple supervised models 
 
 <img src='https://raw.githubusercontent.com/aiskunks/Skunks_Skool/main/Art/Skunks_Skool_Step2.png' />
 
