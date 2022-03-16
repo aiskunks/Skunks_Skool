@@ -18,7 +18,42 @@ TODO - add excellent learning python and R links here
 
 
 ## Step 2
-TODO
+
+<img src='https://raw.githubusercontent.com/aiskunks/Skunks_Skool/main/Art/Skunks_Skool_Step2.png' />
+
+Stanford statisticians Trevor Hastie. Robert Tibshirani have an outstanding course and book on statistical learning called
+_An Introduction for Statistical Learning_    
+
+A free PDF version of the The 2nd edition of _An Introduction for Statistical Learning_ is available here https://www.dropbox.com/s/krvhmt7z8zxhl7f/ISLRv2_website.pdf?dl=0    
+
+You can see the examples in python at <a href='https://github.com/aiskunks/Skunks_Skool/tree/main/I2SL_Statistical_Learning'>https://github.com/aiskunks/Skunks_Skool/tree/main/I2SL_Statistical_Learning</a>   
+
+In particular start with chapters 2, 3, and 4.   
+
+Chapter 2: Statistical Learning  playlist 
+https://www.youtube.com/playlist?list=PL5-da3qGB5IDvuFPNoSqheihPOQNJpzyy
+
+Chapter 3: Linear Regression 
+https://www.youtube.com/playlist?list=PL5-da3qGB5IBSSCPANhTgrw82ws7w_or9
+
+Chapter 4: Classification 
+ISLR Chapter 4: Classification https://youtube.com/playlist?list=PL5-da3qGB5IC4vaDba5ClatUmFppXLAh
+
+Step 2 specifics.
+
+Read or look at the videos for An Introduction for Statistical Learning chapters 2, 3 and 4.
+Then,
+1. Find a data set for classification and regression.
+2. Build simple supervised models for classification and regression using logistic and linear regression.
+3. Intepret the output and regression coeffecients.
+4. Did the model do well.
+5. What metrics did you use to evalaute classification and regression?
+
+
+
+
+
+TODO - add links related to linear and logistic regression.   
 
 
 ## Step 3
