@@ -796,5 +796,5 @@ Some data mining competition platforms
 - [DataQuest](https://www.dataquest.io/)
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
-- [Reddit-Data Scirnce](https://www.reddit.com/r/datascience/)
+- [Reddit-Data Science](https://www.reddit.com/r/datascience/)
 
