@@ -789,3 +789,12 @@ Some data mining competition platforms
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
+
+## Data Science Communities
+- [IBM Data Science Community](https://community.ibm.com/community/user/datascience/home)
+- [Data Science Central](https://www.datasciencecentral.com/)
+- [DataQuest](https://www.dataquest.io/)
+- [DrivenData](https://www.drivendata.org/)
+- [Data Science Society](https://www.datasciencesociety.net/)
+- [Reddit-Data Scirnce](https://www.reddit.com/r/datascience/)
+
