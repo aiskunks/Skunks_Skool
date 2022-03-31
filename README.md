@@ -483,6 +483,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Regression, a Friendly guide](https://www.manning.com/books/regression-a-friendly-guide) - Early access
 - [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 - [Data Science at the Command Line: Facing the Future with Time-Tested Tools](https://www.oreilly.com/library/view/data-science-at/9781491947845/)
+- [Pattern Recognition and Machine Learning](https://link.springer.com/book/9780387310732)
+- [Neural networks: a comprehensive foundation](https://www.cambridge.org/core/journals/knowledge-engineering-review/article/abs/neural-networks-a-comprehensive-foundation-by-simon-haykin-macmillan-1994-isbn-0023527817/EB35EC581662FFC75E3FCAD4DDB9FDD1)
+- [Pattern Classification, 2nd Edition](https://www.wiley.com/en-us/Pattern+Classification%2C+2nd+Edition-p-9780471056690)
 
 
 ## Bloggers
