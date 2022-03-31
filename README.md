@@ -554,7 +554,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Science Technology and Corporation](https://www.facebook.com/DataScienceTechnologyCorporation?ref=br_rs)
 - [Data Science - Closed Group](https://www.facebook.com/groups/1394010454157077/?ref=br_rs)
 - [Center for Data Science](https://www.facebook.com/centerdatasciences?ref=br_rs)
-
+- [Big Data & Data Science & Data Mining & Statistics](https://www.facebook.com/groups/bigdatastatistics/)
+- [Data Science | Machine Learning | Artificial Intelligence | Deep Learning](https://www.facebook.com/groups/304266671063402/)
+- [Data Science World](https://www.facebook.com/groups/BigDataPakistan/)
 
 
 ## Twitter Accounts
