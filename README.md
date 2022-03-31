@@ -809,3 +809,6 @@ Some data mining competition platforms
 - [Tinker Hub](https://paths.tinkerhub.org/dsa)
 - 
 
+- [URAL](https://acm.timus.ru/)
+- [SPOJ](https://www.spoj.com/)
+- [bigML](https://bigml.com/dashboard/sources/new)
