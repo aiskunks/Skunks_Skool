@@ -664,7 +664,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
 - [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
 
-
+- [Tech With Tim](https://www.youtube.com/c/TechWithTim)
+- [Deep Learning basics with Python, TensorFlow and Keras](https://www.youtube.com/watch?v=wQ8BIBpya2k)
+- [Machine Learning Tutorial for Beginners](https://www.youtube.com/watch?v=RnFGwxJwx-0)
 
 
 ## Slack Communities
