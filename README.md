@@ -803,3 +803,7 @@ Some data mining competition platforms
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
 
+-[Coding Blocks](https://discuss.codingblocks.com/c/c-advanced/51)
+-[StuDocs](https://www.studocu.com/en-us/document/university-of-the-people/data-structures-proctored-course/cs3303-data-structure-discussion-forum-unit-2/22649306)
+-[Physics Forum](https://www.physicsforums.com/forums/programming-and-computer-science.165/)
+
