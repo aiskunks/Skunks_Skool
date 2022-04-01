@@ -133,7 +133,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 - C4.5
 - k-Means
-- SVM
+- SVM:https://scikit-learn.org/stable/modules/svm.html
 - Apriori
 - EM
 - PageRank
@@ -146,10 +146,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 - Multilayer Perceptron
 - Convolutional Neural Network (CNN)
-- Recurrent Neural Network (RNN)
+- Recurrent Neural Network (RNN):https://www.analyticsvidhya.com/blog/2020/02/cnn-vs-rnn-vs-mlp-analyzing-3-types-of-neural-networks-in-deep-learning/
 - Boltzmann Machines
 - Autoencoder
-- Generative Adversarial Network (GAN)
+- Generative Adversarial Network (GAN):https://snfexfab.stanford.edu/docs/report/community-service-extension-request-p-ganalgangan-e-mode-hemt
 - Self-Organized Maps
 
 ## Intensive Programs
