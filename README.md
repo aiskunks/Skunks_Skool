@@ -804,11 +804,16 @@ Some data mining competition platforms
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+
 - [Sinclair College](https://www.sinclair.edu/course/params/subject/CIS/courseNo/2207)
 - [Workat.tech](https://workat.tech/problem-solving/article/competitive-programming-complete-roadmap-from-scratch-sbcrmnxb1sfg)
 - [Tinker Hub](https://paths.tinkerhub.org/dsa)
-- 
 
 - [URAL](https://acm.timus.ru/)
 - [SPOJ](https://www.spoj.com/)
 - [bigML](https://bigml.com/dashboard/sources/new)
+
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
+- [Swift Forums](https://forums.swift.org/)
+- [DataTalks.Club](https://datatalks.club/)
+
