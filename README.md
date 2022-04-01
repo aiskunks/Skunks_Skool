@@ -817,3 +817,7 @@ Some data mining competition platforms
 - [Swift Forums](https://forums.swift.org/)
 - [DataTalks.Club](https://datatalks.club/)
 
+- [Reddit r/algorithms](https://www.reddit.com/r/algorithms/)
+- [dev.io](https://dev.to/t/algorithms)
+- [Topcoder](https://discussions.topcoder.com/categories/general-algorithm-discussions)
+
