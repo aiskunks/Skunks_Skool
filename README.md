@@ -483,6 +483,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Regression, a Friendly guide](https://www.manning.com/books/regression-a-friendly-guide) - Early access
 - [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 - [Data Science at the Command Line: Facing the Future with Time-Tested Tools](https://www.oreilly.com/library/view/data-science-at/9781491947845/)
+- [Probabilistic Deep Learning With Python, Keras and TensorFlow Probability](https://www.manning.com/books/probabilistic-deep-learning)
+- [Deep Learning from Scratch](https://www.oreilly.com/library/view/deep-learning-from/9781492041405/)
+
 
 
 ## Bloggers
@@ -753,6 +756,7 @@ Some data mining competition platforms
 - [Covid-19 Google](https://github.com/google-research/open-covid-19-data)
 - [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 - [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
+- [Paper With Code Dataset](https://paperswithcode.com/datasets)
 
 ## Comics
 
