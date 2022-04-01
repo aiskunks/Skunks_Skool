@@ -447,6 +447,11 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [The Radical AI Podcast](https://www.radicalai.org/)
 - [The Robot Brains Podcast](https://www.therobotbrains.ai/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
+- [Using Human-Centric Data Science at Spotify](https://www.widsconference.org/lillian_carrasquillo.html)
+- [The Past and Present of Data Science](https://www.datacamp.com/podcast/the-past-and-present-of-data-science)
+- [The Curiosity of the Analyst with Dr. Debbie Berebichez](https://analyticshour.io/2020/09/22/150-the-curiosity-of-the-analyst-with-debbie-berebichez/)
+
+
 
 ## Books
 [top](#skunks-skool)
