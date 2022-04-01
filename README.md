@@ -804,4 +804,6 @@ Some data mining competition platforms
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
 - [khanacademy](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [educative](https://www.educative.io/explore?aff=K7qB)
+- [projecteuler](https://projecteuler.net/about)
 - [lintcode](https://www.lintcode.com/problem/?typeId=2)
+
