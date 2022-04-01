@@ -803,3 +803,6 @@ Some data mining competition platforms
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
 - [Algorithm visualizer](https://algorithm-visualizer.org/)
+- [Quantconnect Forum](https://www.quantconnect.com/forum/discussions/1/interesting)
+- [Toptal](https://www.toptal.com/developers/sorting-algorithms)
+
