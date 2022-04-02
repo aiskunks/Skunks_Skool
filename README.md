@@ -104,7 +104,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - Clustering
   - [Hierchical clustering](https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec)
   - [k-means](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)
-  - Fuzzy clustering
+  - [Fuzzy clustering](https://medium.com/geekculture/fuzzy-c-means-clustering-fcm-algorithm-in-machine-learning-c2e51e586fff)
   - Mixture models
 - Dimension Reduction
   - Principal Component Analysis (PCA)
