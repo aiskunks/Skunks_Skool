@@ -554,6 +554,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Science Technology and Corporation](https://www.facebook.com/DataScienceTechnologyCorporation?ref=br_rs)
 - [Data Science - Closed Group](https://www.facebook.com/groups/1394010454157077/?ref=br_rs)
 - [Center for Data Science](https://www.facebook.com/centerdatasciences?ref=br_rs)
+- [Artificial Intelligence and Machine Learning](https://www.facebook.com/groups/1955664064497065/)
 
 
 
@@ -753,6 +754,7 @@ Some data mining competition platforms
 - [Covid-19 Google](https://github.com/google-research/open-covid-19-data)
 - [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 - [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
+- [2022 Ukraine Russia War](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war)
 
 ## Comics
 
@@ -802,4 +804,7 @@ Some data mining competition platforms
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+
+## Machine Learning Communities
+- [Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning/)
 
