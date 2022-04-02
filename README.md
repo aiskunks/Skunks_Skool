@@ -539,6 +539,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Hilary Parker](https://hilaryparker.com/)
 - [Data Stories](https://datastori.es/)
 - [Data Science Lab](https://datasciencelab.wordpress.com/)
+- [Master Theorem](https://www.reddit.com/r/algorithms/comments/tu4t4b/is_it_possible_to_use_the_master_theorem_on/)
 
 
 
@@ -802,4 +803,6 @@ Some data mining competition platforms
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+- [Merge Sorting A Linked List](https://www.reddit.com/r/algorithms/comments/tqy3lb/question_about_merge_sorting_a_linked_list/)
+- [Dijkstra’s Shortest Path](https://www.reddit.com/r/algorithms/comments/tql7kd/finding_dijkstras_shortest_path/)
 
