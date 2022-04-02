@@ -82,9 +82,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 ### Supervised Learning
 
 - Regression
-- Linear Regression
-- Ordinary Least Squares
-- Logistic Regression
+- [Linear Regression] (https://christophm.github.io/interpretable-ml-book/limo.html)
+- Ordinary Least Squares 
+- [Logistic Regression] (https://christophm.github.io/interpretable-ml-book/logistic.html)
 - Stepwise Regression
 - Multivariate Adaptive Regression Splines
 - Locally Estimated Scatterplot Smoothing
@@ -663,6 +663,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Manning Publications YouTube channel](https://www.youtube.com/c/ManningPublications/featured)
 - [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
 - [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
+- [MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016] (https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
+- [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018] (https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) 
+
 
 
 
@@ -789,6 +792,7 @@ Some data mining competition platforms
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
+- [Awesome Deep Community Detection] (https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection)
 
 ## Data Science Communities
 - [IBM Data Science Community](https://community.ibm.com/community/user/datascience/home)
