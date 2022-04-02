@@ -797,6 +797,9 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
+- [Data Science, Machine Learning, Data Analytics](https://www.linkedin.com/groups/10308230/)
+- [Global Artificial Intelligence, Machine Learning](https://www.facebook.com/groups/199938307171587/)
+- [Reinforcement Learning](https://www.reddit.com/r/reinforcementlearning/)
 
 ## Algorithm Communities
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
