@@ -298,6 +298,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [RuleFit](https://github.com/christophM/rulefit)
 * [pyGAM](https://github.com/dswah/pyGAM)
 * [Deepchecks](https://github.com/deepchecks/deepchecks)
+* [Numpy](https://github.com/numpy/numpy)
+* [Theano](https://github.com/Theano/Theano)
+* [Tensorflow](https://github.com/tensorflow/tensorflow)
 
 
 ## Deep Learning
