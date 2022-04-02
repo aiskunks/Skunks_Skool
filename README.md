@@ -797,6 +797,10 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
+- [Data Leaders](https://dataleaders.net/?ref=thehiveindex.com&utm_source=thehiveindex.com)
+- [Open Data Science](https://opendatascience.com/)
+- [Data Community DC](https://www.datacommunitydc.org/)
+
 
 ## Algorithm Communities
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
