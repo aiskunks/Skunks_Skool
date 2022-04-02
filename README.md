@@ -766,6 +766,8 @@ Some data mining competition platforms
 - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [lists](https://github.com/jnv/lists)
+- [Weight and Bias Blogs](https://wandb.ai/fully-connected)
+- [Numer.ai](https://numer.ai/)
 - [awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz)
 - [awesome-python](https://github.com/vinta/awesome-python)
 - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks)
@@ -790,8 +792,7 @@ Some data mining competition platforms
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
-- [Weight and Bias Blogs](https://wandb.ai/fully-connected)
-- [Numer.ai](https://numer.ai/)
+
 - 
 
 ## Data Science Communities
