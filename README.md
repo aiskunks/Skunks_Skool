@@ -797,6 +797,10 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
+- [Spark NLP Community](https://spark-nlp.slack.com/join/shared_invite/zt-lutct9gm-kuUazcyFKhuGY3_0AMkxqA#/shared-invite/email)
+- [Hackernoon](https://hackernoon.com/)
+- [Women in Analytics](https://www.womeninanalytics.com/)
+
 
 ## Algorithm Communities
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
