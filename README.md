@@ -797,7 +797,9 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
-
+- [Data community DC](https://www.datacommunitydc.org/)
+- [Data Leaders](https://dataleaders.net/)
+- [Facebook Beginning Data Science](https://www.facebook.com/groups/995474220466742/)
 ## Algorithm Communities
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
