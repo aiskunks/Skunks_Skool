@@ -554,6 +554,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Science Technology and Corporation](https://www.facebook.com/DataScienceTechnologyCorporation?ref=br_rs)
 - [Data Science - Closed Group](https://www.facebook.com/groups/1394010454157077/?ref=br_rs)
 - [Center for Data Science](https://www.facebook.com/centerdatasciences?ref=br_rs)
+- [Data Mining / Machine Learning / Artificial Intelligence] (https://www.facebook.com/groups/machinelearningforum/)
 
 
 
@@ -635,6 +636,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 - [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
 - [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
+
 
 
 ## Youtube Videos & Channels
@@ -753,6 +755,8 @@ Some data mining competition platforms
 - [Covid-19 Google](https://github.com/google-research/open-covid-19-data)
 - [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 - [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
+- [200K Short Texts for Humor Detection](https://www.kaggle.com/datasets/deepcontractor/200k-short-texts-for-humor-detection)
+- [HR Employee Dataset](https://www.kaggle.com/datasets/alfiedanish/hr-employee-dataset-1)
 
 ## Comics
 
