@@ -790,7 +790,7 @@ Some data mining competition platforms
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 - [Awesome NLP resources](https://medium.com/modern-nlp/nlp-metablog-a-blog-of-blogs-693e3a8f1e0c)
-- [Advancements in Machine Learning](ttps://www.linkedin.com/posts/activity-6782164452767858688-MdPx/?utm_source=linkedin_share&utm_medium=member_desktop_web)
+- [Advancements in Machine Learning](https://www.linkedin.com/posts/activity-6782164452767858688-MdPx/?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - [HD Fake images of non existent humans](https://thispersondoesnotexist.com)
 ## Data Science Communities
 - [IBM Data Science Community](https://community.ibm.com/community/user/datascience/home)
