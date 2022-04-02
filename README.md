@@ -797,6 +797,10 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
+- [Datahub](https://datahub.io/)
+- [R-Bloggers](https://www.r-bloggers.com/2021/08/10-steps-to-get-started-in-sports-analytics/)
+- [comunity.Alteryx](https://community.alteryx.com/t5/Analytics/Analytics-in-Sport-Predicting-the-Euros/ba-p/771049)
+
 
 ## Algorithm Communities
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
