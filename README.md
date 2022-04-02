@@ -261,6 +261,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 |[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python Data Science Handbook: full text in Jupyter Notebooks|
 | [Shapley](https://github.com/benedekrozemberczki/shapley) | A data-driven framework to quantify the value of classifiers in a machine learning ensemble.  |
 | [DAGsHub](https://dagshub.com) | A platform built on open source tools for data, model and pipeline management.  |
+| [Apache Airflow](https://airflow.apache.org/) | A platform created by the community to programmatically author, schedule and monitor workflows  |
 | [Deepnote](https://deepnote.com) | A new kind of data science notebook. Jupyter-compatible, with real-time collaboration and running in the cloud. |
 | [Valohai](https://valohai.com) | An MLOps platform that handles machine orchestration, automatic reproducibility and deployment. |
 | [PyMC3](https://docs.pymc.io/) | A Python Library for Probabalistic Programming (Bayesian Inference and Machine Learning) |
@@ -447,6 +448,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [The Radical AI Podcast](https://www.radicalai.org/)
 - [The Robot Brains Podcast](https://www.therobotbrains.ai/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
+- [DeepMind - An Inside Look](https://www.deepmind.com/the-podcast)
 
 ## Books
 [top](#skunks-skool)
@@ -539,6 +541,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Hilary Parker](https://hilaryparker.com/)
 - [Data Stories](https://datastori.es/)
 - [Data Science Lab](https://datasciencelab.wordpress.com/)
+- [Distill](https://distill.pub/)
 
 
 
