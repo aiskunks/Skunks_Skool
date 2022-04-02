@@ -802,4 +802,7 @@ Some data mining competition platforms
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+- [3Blue1Brown](https://www.3blue1brown.com/)
+- [quantconnect](https://www.quantconnect.com/forum/discussions/1/interesting)
+- [codeproject](https://www.codeproject.com/Forums/326859/Algorithms)
 
