@@ -102,7 +102,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 ### Unsupervised Learning
 - Clustering
-  - Hierchical clustering
+  - [Hierchical clustering](https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec)
   - k-means
   - Fuzzy clustering
   - Mixture models
