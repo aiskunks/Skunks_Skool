@@ -483,6 +483,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Regression, a Friendly guide](https://www.manning.com/books/regression-a-friendly-guide) - Early access
 - [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 - [Data Science at the Command Line: Facing the Future with Time-Tested Tools](https://www.oreilly.com/library/view/data-science-at/9781491947845/)
+- [Machine-Learning-Methods](https://books.google.com/books?id=THb-DwAAQBAJ&pg=PA132&lpg=PA132&dq=data+science+algos+learning+methods&source=bl&ots=yEsywV-nin&sig=ACfU3U3wCx1UehqdxHUZb4jiz8liHJUZLA&hl=en&sa=X&ved=2ahUKEwjnzM6a0vb2AhVshYkEHcuwAZE4lgEQ6AF6BAghEAM#v=onepage&q=data%20science%20algos%20learning%20methods&f=false)
 
 
 ## Bloggers
@@ -797,6 +798,8 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
+- [statistical-ml](https://datafloq.com/read/statistical-methods-and-machine-learning-algorithm/)
+- [educativeio-ml](https://www.educative.io/explore?search=true&search_string=&skills=machine-learning&free=false&pageNo=1)
 
 ## Algorithm Communities
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
