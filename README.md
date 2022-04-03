@@ -829,6 +829,9 @@ Some data mining competition platforms
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+- [Freecodecamp Alogrithm Forum](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [Educative.io Alogrithm Forum](https://www.educative.io/courses/visual-introduction-to-algorithms)
+- [Geeksforgeeks Alogrithm Forum](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 
 - [LeetCode](https://leetcode.com/)
 - [Timus Online Judge](https://acm.timus.ru/)
