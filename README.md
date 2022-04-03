@@ -803,3 +803,9 @@ Some data mining competition platforms
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
 
+## Data Science Communities
+- [Data Talks Community](https://datatalks.club/?ref=thehiveindex.com&utm_source=thehiveindex.com)
+- [Data Science Salon](https://www.datascience.salon/)
+- [Data leaders Community](https://dataleaders.net/community/)
+
+
