@@ -802,4 +802,6 @@ Some data mining competition platforms
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
-
+- [CS career questions] (https://www.reddit.com/r/cscareerquestions/)
+- [leetcode] (https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=)
+- [Algorithms course] (https://www.youtube.com/watch?v=BBpAmxU_NQo)
