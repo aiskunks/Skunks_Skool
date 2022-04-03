@@ -452,6 +452,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 [top](#skunks-skool)
 
 - [Exploring Data Science](https://www.manning.com/books/exploring-data-science) - free eBook sampler
+- [Hands on ML](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf)
 - [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle) - free eBook sampler
 - [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python)
 - [Math for Programmers](https://www.manning.com/books/math-for-programmers) Early access
@@ -663,6 +664,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Manning Publications YouTube channel](https://www.youtube.com/c/ManningPublications/featured)
 - [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
 - [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
+- [Data Science](https://www.youtube.com/user/krishnaik06)
 
 
 
