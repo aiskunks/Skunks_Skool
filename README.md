@@ -178,6 +178,11 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 - [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
 - [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
+- [AI Ethics](https://medium.com/nerd-for-tech/5-recommended-free-ai-ethics-online-courses-to-get-started-right-away-2bc5daf4e417)
+- [Reinforcement Learning](https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021)
+- [AI in Industry](https://www.amazon.science/latest-news/9-videos-about-explainable-ai-in-industry)
+
+
 
 
 
