@@ -753,6 +753,9 @@ Some data mining competition platforms
 - [Covid-19 Google](https://github.com/google-research/open-covid-19-data)
 - [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 - [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
+- [Zomato](https://www.kaggle.com/datasets/vora1011/zomato-bangalore-restaurants-2022)
+- [Wheat](https://www.kaggle.com/datasets/muratkokludataset/durum-wheat-dataset)
+- [Pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
 ## Comics
 
