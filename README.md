@@ -178,7 +178,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 - [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
 - [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
-
+- [ML Ops for beginners](https://ml-ops.org)
+- [Stanford Practical ML] (https://c.d2l.ai/stanford-cs329p/)
+- [From Data Science basics to ML Ops] (https://madewithml.com)
 
 
 ## Toolboxes - Environment
