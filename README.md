@@ -844,3 +844,8 @@ Some data mining competition platforms
 - https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ 
 - https://www.youtube.com/watch?v=0IAPZzGSbME
 
+- [DataCamp](https://www.datacamp.com/blog)
+- [DataSciencelab](https://datasciencelab.wordpress.com/)
+- [PhysicsForum](https://www.physicsforums.com/forums/programming-and-computer-science.165/page-3)
+- [Kaggle](https://www.kaggle.com/)
+
