@@ -789,6 +789,8 @@ Some data mining competition platforms
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
+- [Machine learning stories](https://hackernoon.com/tagged/machine-learning)
+- [Introduction to AutoML](https://www.kaggle.com/code/alexisbcook/intro-to-automl)
 
 ## Data Science Communities
 - [IBM Data Science Community](https://community.ibm.com/community/user/datascience/home)
@@ -797,6 +799,11 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
+- [Reddit-Reinforcement Learning](https://www.reddit.com/r/reinforcementlearning/)
+- [Reddit-Machine Learning](https://www.reddit.com/r/MachineLearning/)
+- [LinkedInMachine learning and Data Science](https://www.linkedin.com/groups/4298680/)
+- [Data enthusiasts community](https://datatalks.club/)
+- [Analytics India Magazine](https://t.me/joinchat/NJLxnhZB7GkX3CPvjs9QGQ)
 
 ## Algorithm Communities
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
