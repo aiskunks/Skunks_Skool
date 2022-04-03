@@ -835,3 +835,12 @@ Some data mining competition platforms
 - [dev.io](https://dev.to/t/algorithms)
 - [Topcoder](https://discussions.topcoder.com/categories/general-algorithm-discussions)
 
+
+
+- https://medium.com/@shalinichandr/principle-of-recursion-a4e13f6c1e5f
+- https://medium.com/@shalinichandr/guidelines-for-asymptotic-analysis-90a77022d36 
+- https://medium.com/@yunhanh/gale-shapley-algorithm-and-stable-matching-dbf1bf748541
+- https://www.youtube.com/watch?v=8hly31xKli0  
+- https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ 
+- https://www.youtube.com/watch?v=0IAPZzGSbME
+
