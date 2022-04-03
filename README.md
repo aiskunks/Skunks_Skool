@@ -797,9 +797,12 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
+- [Kaggle-Data Science Community](https://www.kaggle.com/discussion?tags=13302-Classification)
+- [AWS-Dats Science Comminty](https://aws.amazon.com/machine-learning/ml-community/)
 
 ## Algorithm Communities
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+- [CodeWithMosh Algorithm Forum](https://forum.codewithmosh.com/c/data-structures/14)
 
