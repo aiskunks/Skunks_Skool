@@ -802,4 +802,9 @@ Some data mining competition platforms
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+- https://www.youtube.com/watch?v=8hly31xKli0
+- https://www.youtube.com/watch?v=0IAPZzGSbME
+- https://medium.com/@shalinichandr/principle-of-recursion-a4e13f6c1e5f
+- https://medium.com/@shalinichandr/guidelines-for-asymptotic-analysis-90a77022d36
+
 
