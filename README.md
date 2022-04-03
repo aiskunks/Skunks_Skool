@@ -797,9 +797,12 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
+- [Towards Data Science - Python](https://towardsdatascience.com/targeting-multicollinearity-with-python-3bd3b4088d0b)
 
 ## Algorithm Communities
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+- [Data Science Blog](https://info.nycdatascience.com/your-12-step-guide-on-how-to-become-a-data-scientist)
+- [Oracle Machine Learning](https://blogs.oracle.com/ai-and-datascience/post/how-to-easily-extract-text-data-for-machine-learning)
 
