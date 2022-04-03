@@ -797,6 +797,9 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
+- [Data Science Central](https://www.datasciencecentral.com/)
+- [Data Science Society for Social Good](https://www.datascienceforsocialgood.org/)
+- [Locally Optimistic](https://locallyoptimistic.com/community/)
 
 ## Algorithm Communities
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
