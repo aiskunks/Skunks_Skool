@@ -797,6 +797,9 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
+- [Openmined](https://www.openmined.org)
+- [AWS ML community](https://aws.amazon.com/machine-learning/ml-community/)
+- [TWIML](https://twimlai.com/community/)
 
 ## Algorithm Communities
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
