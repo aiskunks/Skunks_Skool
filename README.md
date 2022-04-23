@@ -133,7 +133,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 - C4.5
 - k-Means
-- SVM
+- SVM:https://scikit-learn.org/stable/modules/svm.html
 - Apriori
 - EM
 - PageRank
@@ -146,10 +146,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 - Multilayer Perceptron
 - Convolutional Neural Network (CNN)
-- Recurrent Neural Network (RNN)
+- Recurrent Neural Network (RNN):https://www.analyticsvidhya.com/blog/2020/02/cnn-vs-rnn-vs-mlp-analyzing-3-types-of-neural-networks-in-deep-learning/
 - Boltzmann Machines
 - Autoencoder
-- Generative Adversarial Network (GAN)
+- Generative Adversarial Network (GAN):https://snfexfab.stanford.edu/docs/report/community-service-extension-request-p-ganalgangan-e-mode-hemt
 - Self-Organized Maps
 
 ## Intensive Programs
@@ -261,6 +261,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 |[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python Data Science Handbook: full text in Jupyter Notebooks|
 | [Shapley](https://github.com/benedekrozemberczki/shapley) | A data-driven framework to quantify the value of classifiers in a machine learning ensemble.  |
 | [DAGsHub](https://dagshub.com) | A platform built on open source tools for data, model and pipeline management.  |
+| [Apache Airflow](https://airflow.apache.org/) | A platform created by the community to programmatically author, schedule and monitor workflows  |
 | [Deepnote](https://deepnote.com) | A new kind of data science notebook. Jupyter-compatible, with real-time collaboration and running in the cloud. |
 | [Valohai](https://valohai.com) | An MLOps platform that handles machine orchestration, automatic reproducibility and deployment. |
 | [PyMC3](https://docs.pymc.io/) | A Python Library for Probabalistic Programming (Bayesian Inference and Machine Learning) |
@@ -298,6 +299,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [RuleFit](https://github.com/christophM/rulefit)
 * [pyGAM](https://github.com/dswah/pyGAM)
 * [Deepchecks](https://github.com/deepchecks/deepchecks)
+* [Numpy](https://github.com/numpy/numpy)
+* [Theano](https://github.com/Theano/Theano)
+* [Tensorflow](https://github.com/tensorflow/tensorflow)
 
 
 ## Deep Learning
@@ -447,6 +451,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [The Radical AI Podcast](https://www.radicalai.org/)
 - [The Robot Brains Podcast](https://www.therobotbrains.ai/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
+- [DeepMind - An Inside Look](https://www.deepmind.com/the-podcast)
 
 ## Books
 [top](#skunks-skool)
@@ -540,6 +545,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Stories](https://datastori.es/)
 - [Data Science Lab](https://datasciencelab.wordpress.com/)
 
+- [Distill](https://distill.pub/)
+- [Master Theorem](https://www.reddit.com/r/algorithms/comments/tu4t4b/is_it_possible_to_use_the_master_theorem_on/)
+
+
 
 
 ## Facebook Accounts
@@ -627,6 +636,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [WileyEd](https://twitter.com/WileyEd) | Senior Manager - @Seagate Big Data Analytics @McKinsey Alum #BigData + #Analytics Evangelist #Hadoop, #Cloud, #Digital, & #R Enthusiast |
 | [WNYC Data News Team](https://twitter.com/datanews) | The data news crew at @WNYC. Practicing data-driven journalism, making it visual and showing our work. |
 | [Alexey Grigorev](https://twitter.com/Al_Grigor) | Data science author |
+| [Scott Hanselman](https://twitter.com/shanselman) | Programmer Blogger |
 
 
 ## Newsletters
@@ -664,6 +674,11 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
 - [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
 
+- [Two Minute papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
+
+- [Flow Networks](https://www.youtube.com/watch?v=-aHdi6cmxyk)
+- [Machine Learning with Python](https://www.youtube.com/watch?v=7eh4d6sabA0)
+- [Deep Learning In 5 Minutes](https://www.youtube.com/watch?v=6M5VXKLf4D4)
 
 
 
@@ -765,6 +780,8 @@ Some data mining competition platforms
 - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [lists](https://github.com/jnv/lists)
+- [Weight and Bias Blogs](https://wandb.ai/fully-connected)
+- [Numer.ai](https://numer.ai/)
 - [awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz)
 - [awesome-python](https://github.com/vinta/awesome-python)
 - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks)
@@ -789,6 +806,10 @@ Some data mining competition platforms
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
+- [Awesome Algorithm & Data structures Tutorial](https://www.geeksforgeeks.org/)
+- [Awesome Algorithm Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+
+- 
 
 ## Data Science Communities
 - [IBM Data Science Community](https://community.ibm.com/community/user/datascience/home)
@@ -798,8 +819,106 @@ Some data mining competition platforms
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
 
+- [Community Detection Algorithms](https://neo4j.com/developer/graph-data-science/community-detection-graph-algorithms/)
+- [Machine Learning Algorithms for Data Science](https://intellipaat.com/blog/tutorial/data-science-tutorial/data-science-algorithms/)
+- [8 Clustering Algorithms in Machine Learning that All Data Scientists Should Know](https://www.freecodecamp.org/news/8-clustering-algorithms-in-machine-learning-that-all-data-scientists-should-know/)
+
+- [Kaggle-Data Science Community](https://www.kaggle.com/discussion?tags=13302-Classification)
+- [AWS-Dats Science Comminty](https://aws.amazon.com/machine-learning/ml-community/)
+
+- [Wolfram Forum](https://community.wolfram.com/content?curTag=data%20science)
+- [Qora Forum](https://www.quora.com/topic/Machine-Learning)
+
+- [DataScience Salon Community] (https://community.datascience.salon/)
+- [ML AI] (http://ml-ai-invite.herokuapp.com/)
+- [Vaticle] (https://blog.vaticle.com/)
+
+
+
 ## Algorithm Communities
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+- [Design and Analysis of Computer Algorithms](https://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html)
+- [The Archive of Interesting Code](https://www.keithschwarz.com/interesting/)
+- [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
+- [Solve interesting puzzles or problems](http://delphiforfun.org/default.html)
+
+- https://practice.geeksforgeeks.org/batch/dsa-4
+- https://jovian.ai/learn/data-structures-and-algorithms-in-python
+
+- [LeetCode](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=)
+- [Atcoder](https://atcoder.jp/)
+- [Codeforces](https://codeforces.com/)
+
+- [Algorithm visualizer](https://algorithm-visualizer.org/)
+- [Quantconnect Forum](https://www.quantconnect.com/forum/discussions/1/interesting)
+- [Toptal](https://www.toptal.com/developers/sorting-algorithms)
+
+- [Freecodecamp Alogrithm Tutorials](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [Educative.io Alogrithm Tutorials](https://www.educative.io/courses/visual-introduction-to-algorithms)
+- [Geeksforgeeks Alogrithm Tutorials](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+
+- [LeetCode](https://leetcode.com/)
+- [Timus Online Judge](https://acm.timus.ru/)
+- [Sphere online judge](https://www.spoj.com/)
+
+- [Exercism Algorithm Community](https://exercism.org/)
+- [Techie Delight Community](https://www.techiedelight.com/)
+- [Khan Academy Community](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [Algorithm Basics](https://tutorialspoint.dev/algorithm/algorithms)
+- [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
+- [Alogrithm Challenges](https://www.learneroo.com/subjects/8)
+
+- [Data Structures](https://brilliant.org/courses/computer-science-fundamentals/)
+- [Algorithms Hands on](https://projecteuler.net/)
+- [Visualizing Algorithms](https://visualgo.net/en)
+
+- [Depth- and Breadth-First Search Algorithm Tutorial](https://jeremykun.com/2013/01/22/depth-and-breadth-first-search/)
+
+- [CodeWithMosh Algorithm Forum](https://forum.codewithmosh.com/c/data-structures/14)
+
+- [Swift Forum](https://forums.swift.org/c/related-projects/algorithms/70)
+- [IBM Algorithmic Technology](https://community.ibm.com/community/user/blogs/matthew-giannelis1/2021/06/13/algorithmic-technology)
+
+- [Merge Sorting A Linked List](https://www.reddit.com/r/algorithms/comments/tqy3lb/question_about_merge_sorting_a_linked_list/)
+- [Dijkstra’s Shortest Path](https://www.reddit.com/r/algorithms/comments/tql7kd/finding_dijkstras_shortest_path/)
+
+- [Hackernoon Algorithm Blogs](https://hackernoon.com/tagged/algorithms)
+- [Algorithms Community Reddit](https://www.reddit.com/r/algorithms/)
+- [Algorithms with Go](https://algorithmswithgo.com/)
+
+-[Coding Blocks](https://discuss.codingblocks.com/c/c-advanced/51)
+-[StuDocs](https://www.studocu.com/en-us/document/university-of-the-people/data-structures-proctored-course/cs3303-data-structure-discussion-forum-unit-2/22649306)
+-[Physics Forum](https://www.physicsforums.com/forums/programming-and-computer-science.165/)
+
+- [Sinclair College](https://www.sinclair.edu/course/params/subject/CIS/courseNo/2207)
+- [Workat.tech](https://workat.tech/problem-solving/article/competitive-programming-complete-roadmap-from-scratch-sbcrmnxb1sfg)
+- [Tinker Hub](https://paths.tinkerhub.org/dsa)
+
+- [URAL](https://acm.timus.ru/)
+- [SPOJ](https://www.spoj.com/)
+- [bigML](https://bigml.com/dashboard/sources/new)
+
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
+- [Swift Forums](https://forums.swift.org/)
+- [DataTalks.Club](https://datatalks.club/)
+
+- [Reddit r/algorithms](https://www.reddit.com/r/algorithms/)
+- [dev.io](https://dev.to/t/algorithms)
+- [Topcoder](https://discussions.topcoder.com/categories/general-algorithm-discussions)
+
+
+
+- https://medium.com/@shalinichandr/principle-of-recursion-a4e13f6c1e5f
+- https://medium.com/@shalinichandr/guidelines-for-asymptotic-analysis-90a77022d36 
+- https://medium.com/@yunhanh/gale-shapley-algorithm-and-stable-matching-dbf1bf748541
+- https://www.youtube.com/watch?v=8hly31xKli0  
+- https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ 
+- https://www.youtube.com/watch?v=0IAPZzGSbME
+
+- [DataCamp](https://www.datacamp.com/blog)
+- [DataSciencelab](https://datasciencelab.wordpress.com/)
+- [PhysicsForum](https://www.physicsforums.com/forums/programming-and-computer-science.165/page-3)
+- [Kaggle](https://www.kaggle.com/)
 
