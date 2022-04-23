@@ -663,7 +663,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Manning Publications YouTube channel](https://www.youtube.com/c/ManningPublications/featured)
 - [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
 - [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
-
+- [Flow Networks](https://www.youtube.com/watch?v=-aHdi6cmxyk)
+- [Machine Learning with Python](https://www.youtube.com/watch?v=7eh4d6sabA0)
+- [Deep Learning In 5 Minutes](https://www.youtube.com/watch?v=6M5VXKLf4D4)
 
 
 
@@ -806,4 +808,20 @@ Some data mining competition platforms
 -[Coding Blocks](https://discuss.codingblocks.com/c/c-advanced/51)
 -[StuDocs](https://www.studocu.com/en-us/document/university-of-the-people/data-structures-proctored-course/cs3303-data-structure-discussion-forum-unit-2/22649306)
 -[Physics Forum](https://www.physicsforums.com/forums/programming-and-computer-science.165/)
+
+- [Sinclair College](https://www.sinclair.edu/course/params/subject/CIS/courseNo/2207)
+- [Workat.tech](https://workat.tech/problem-solving/article/competitive-programming-complete-roadmap-from-scratch-sbcrmnxb1sfg)
+- [Tinker Hub](https://paths.tinkerhub.org/dsa)
+
+- [URAL](https://acm.timus.ru/)
+- [SPOJ](https://www.spoj.com/)
+- [bigML](https://bigml.com/dashboard/sources/new)
+
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
+- [Swift Forums](https://forums.swift.org/)
+- [DataTalks.Club](https://datatalks.club/)
+
+- [Reddit r/algorithms](https://www.reddit.com/r/algorithms/)
+- [dev.io](https://dev.to/t/algorithms)
+- [Topcoder](https://discussions.topcoder.com/categories/general-algorithm-discussions)
 
