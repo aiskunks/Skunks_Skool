@@ -829,6 +829,11 @@ Some data mining competition platforms
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+
+- [Algorithm visualizer](https://algorithm-visualizer.org/)
+- [Quantconnect Forum](https://www.quantconnect.com/forum/discussions/1/interesting)
+- [Toptal](https://www.toptal.com/developers/sorting-algorithms)
+
 - [Freecodecamp Alogrithm Tutorials](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 - [Educative.io Alogrithm Tutorials](https://www.educative.io/courses/visual-introduction-to-algorithms)
 - [Geeksforgeeks Alogrithm Tutorials](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
@@ -895,4 +900,5 @@ Some data mining competition platforms
 - [DataSciencelab](https://datasciencelab.wordpress.com/)
 - [PhysicsForum](https://www.physicsforums.com/forums/programming-and-computer-science.165/page-3)
 - [Kaggle](https://www.kaggle.com/)
+
 
