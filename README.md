@@ -839,6 +839,10 @@ Some data mining competition platforms
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+- [Design and Analysis of Computer Algorithms](https://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html)
+- [The Archive of Interesting Code](https://www.keithschwarz.com/interesting/)
+- [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
+- [Solve interesting puzzles or problems](http://delphiforfun.org/default.html)
 
 - https://practice.geeksforgeeks.org/batch/dsa-4
 - https://jovian.ai/learn/data-structures-and-algorithms-in-python
