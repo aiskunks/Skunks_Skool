@@ -664,6 +664,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Manning Publications YouTube channel](https://www.youtube.com/c/ManningPublications/featured)
 - [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
 - [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
+
+- [Two Minute papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
+
 - [Flow Networks](https://www.youtube.com/watch?v=-aHdi6cmxyk)
 - [Machine Learning with Python](https://www.youtube.com/watch?v=7eh4d6sabA0)
 - [Deep Learning In 5 Minutes](https://www.youtube.com/watch?v=6M5VXKLf4D4)
@@ -768,6 +771,8 @@ Some data mining competition platforms
 - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [lists](https://github.com/jnv/lists)
+- [Weight and Bias Blogs](https://wandb.ai/fully-connected)
+- [Numer.ai](https://numer.ai/)
 - [awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz)
 - [awesome-python](https://github.com/vinta/awesome-python)
 - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks)
@@ -794,6 +799,8 @@ Some data mining competition platforms
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 - [Awesome Algorithm & Data structures Tutorial](https://www.geeksforgeeks.org/)
 - [Awesome Algorithm Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+
+- 
 
 ## Data Science Communities
 - [IBM Data Science Community](https://community.ibm.com/community/user/datascience/home)
