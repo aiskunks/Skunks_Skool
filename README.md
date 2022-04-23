@@ -539,6 +539,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Hilary Parker](https://hilaryparker.com/)
 - [Data Stories](https://datastori.es/)
 - [Data Science Lab](https://datasciencelab.wordpress.com/)
+- [Master Theorem](https://www.reddit.com/r/algorithms/comments/tu4t4b/is_it_possible_to_use_the_master_theorem_on/)
 
 
 
@@ -663,8 +664,12 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Manning Publications YouTube channel](https://www.youtube.com/c/ManningPublications/featured)
 - [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
 - [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
+
 - [Two Minute papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
 
+- [Flow Networks](https://www.youtube.com/watch?v=-aHdi6cmxyk)
+- [Machine Learning with Python](https://www.youtube.com/watch?v=7eh4d6sabA0)
+- [Deep Learning In 5 Minutes](https://www.youtube.com/watch?v=6M5VXKLf4D4)
 
 
 
@@ -792,6 +797,8 @@ Some data mining competition platforms
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
+- [Awesome Algorithm & Data structures Tutorial](https://www.geeksforgeeks.org/)
+- [Awesome Algorithm Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
 - 
 
@@ -802,9 +809,77 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
+- [Kaggle-Data Science Community](https://www.kaggle.com/discussion?tags=13302-Classification)
+- [AWS-Dats Science Comminty](https://aws.amazon.com/machine-learning/ml-community/)
+
+- [Wolfram Forum](https://community.wolfram.com/content?curTag=data%20science)
+- [Qora Forum](https://www.quora.com/topic/Machine-Learning)
+
+- [DataScience Salon Community] (https://community.datascience.salon/)
+- [ML AI] (http://ml-ai-invite.herokuapp.com/)
+- [Vaticle] (https://blog.vaticle.com/)
+
 
 ## Algorithm Communities
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+- [Exercism Algorithm Community](https://exercism.org/)
+- [Techie Delight Community](https://www.techiedelight.com/)
+- [Khan Academy Community](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [Algorithm Basics](https://tutorialspoint.dev/algorithm/algorithms)
+- [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
+- [Alogrithm Challenges](https://www.learneroo.com/subjects/8)
+
+- [Data Structures](https://brilliant.org/courses/computer-science-fundamentals/)
+- [Algorithms Hands on](https://projecteuler.net/)
+- [Visualizing Algorithms](https://visualgo.net/en)
+
+- [Depth- and Breadth-First Search Algorithm Tutorial](https://jeremykun.com/2013/01/22/depth-and-breadth-first-search/)
+
+- [CodeWithMosh Algorithm Forum](https://forum.codewithmosh.com/c/data-structures/14)
+
+- [Swift Forum](https://forums.swift.org/c/related-projects/algorithms/70)
+- [IBM Algorithmic Technology](https://community.ibm.com/community/user/blogs/matthew-giannelis1/2021/06/13/algorithmic-technology)
+
+- [Merge Sorting A Linked List](https://www.reddit.com/r/algorithms/comments/tqy3lb/question_about_merge_sorting_a_linked_list/)
+- [Dijkstra’s Shortest Path](https://www.reddit.com/r/algorithms/comments/tql7kd/finding_dijkstras_shortest_path/)
+
+- [Hackernoon Algorithm Blogs](https://hackernoon.com/tagged/algorithms)
+- [Algorithms Community Reddit](https://www.reddit.com/r/algorithms/)
+- [Algorithms with Go](https://algorithmswithgo.com/)
+
+-[Coding Blocks](https://discuss.codingblocks.com/c/c-advanced/51)
+-[StuDocs](https://www.studocu.com/en-us/document/university-of-the-people/data-structures-proctored-course/cs3303-data-structure-discussion-forum-unit-2/22649306)
+-[Physics Forum](https://www.physicsforums.com/forums/programming-and-computer-science.165/)
+
+- [Sinclair College](https://www.sinclair.edu/course/params/subject/CIS/courseNo/2207)
+- [Workat.tech](https://workat.tech/problem-solving/article/competitive-programming-complete-roadmap-from-scratch-sbcrmnxb1sfg)
+- [Tinker Hub](https://paths.tinkerhub.org/dsa)
+
+- [URAL](https://acm.timus.ru/)
+- [SPOJ](https://www.spoj.com/)
+- [bigML](https://bigml.com/dashboard/sources/new)
+
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
+- [Swift Forums](https://forums.swift.org/)
+- [DataTalks.Club](https://datatalks.club/)
+
+- [Reddit r/algorithms](https://www.reddit.com/r/algorithms/)
+- [dev.io](https://dev.to/t/algorithms)
+- [Topcoder](https://discussions.topcoder.com/categories/general-algorithm-discussions)
+
+
+
+- https://medium.com/@shalinichandr/principle-of-recursion-a4e13f6c1e5f
+- https://medium.com/@shalinichandr/guidelines-for-asymptotic-analysis-90a77022d36 
+- https://medium.com/@yunhanh/gale-shapley-algorithm-and-stable-matching-dbf1bf748541
+- https://www.youtube.com/watch?v=8hly31xKli0  
+- https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ 
+- https://www.youtube.com/watch?v=0IAPZzGSbME
+
+- [DataCamp](https://www.datacamp.com/blog)
+- [DataSciencelab](https://datasciencelab.wordpress.com/)
+- [PhysicsForum](https://www.physicsforums.com/forums/programming-and-computer-science.165/page-3)
+- [Kaggle](https://www.kaggle.com/)
 
