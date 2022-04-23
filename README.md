@@ -663,7 +663,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Manning Publications YouTube channel](https://www.youtube.com/c/ManningPublications/featured)
 - [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
 - [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
-
+- [Flow Networks](https://www.youtube.com/watch?v=-aHdi6cmxyk)
+- [Machine Learning with Python](https://www.youtube.com/watch?v=7eh4d6sabA0)
+- [Deep Learning In 5 Minutes](https://www.youtube.com/watch?v=6M5VXKLf4D4)
 
 
 
@@ -802,7 +804,17 @@ Some data mining competition platforms
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
 - [Swift Forums](https://forums.swift.org/)
 - [DataTalks.Club](https://datatalks.club/)
+
+- [Sinclair College](https://www.sinclair.edu/course/params/subject/CIS/courseNo/2207)
+- [Workat.tech](https://workat.tech/problem-solving/article/competitive-programming-complete-roadmap-from-scratch-sbcrmnxb1sfg)
+- [Tinker Hub](https://paths.tinkerhub.org/dsa)
+- 
+
+- [URAL](https://acm.timus.ru/)
+- [SPOJ](https://www.spoj.com/)
+- [bigML](https://bigml.com/dashboard/sources/new)
 
