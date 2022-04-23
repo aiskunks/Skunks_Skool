@@ -814,6 +814,11 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
+
+- [Community Detection Algorithms](https://neo4j.com/developer/graph-data-science/community-detection-graph-algorithms/)
+- [Machine Learning Algorithms for Data Science](https://intellipaat.com/blog/tutorial/data-science-tutorial/data-science-algorithms/)
+- [8 Clustering Algorithms in Machine Learning that All Data Scientists Should Know](https://www.freecodecamp.org/news/8-clustering-algorithms-in-machine-learning-that-all-data-scientists-should-know/)
+
 - [Kaggle-Data Science Community](https://www.kaggle.com/discussion?tags=13302-Classification)
 - [AWS-Dats Science Comminty](https://aws.amazon.com/machine-learning/ml-community/)
 
@@ -823,6 +828,7 @@ Some data mining competition platforms
 - [DataScience Salon Community] (https://community.datascience.salon/)
 - [ML AI] (http://ml-ai-invite.herokuapp.com/)
 - [Vaticle] (https://blog.vaticle.com/)
+
 
 
 ## Algorithm Communities
