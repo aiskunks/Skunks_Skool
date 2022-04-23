@@ -818,6 +818,10 @@ Some data mining competition platforms
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
 
+- [Data Structures](https://brilliant.org/courses/computer-science-fundamentals/)
+- [Algorithms Hands on](https://projecteuler.net/)
+- [Visualizing Algorithms](https://visualgo.net/en)
+
 - [Depth- and Breadth-First Search Algorithm Tutorial](https://jeremykun.com/2013/01/22/depth-and-breadth-first-search/)
 
 - [CodeWithMosh Algorithm Forum](https://forum.codewithmosh.com/c/data-structures/14)
