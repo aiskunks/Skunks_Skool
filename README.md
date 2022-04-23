@@ -836,6 +836,10 @@ Some data mining competition platforms
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+
+- https://practice.geeksforgeeks.org/batch/dsa-4
+- https://jovian.ai/learn/data-structures-and-algorithms-in-python
+
 - [LeetCode](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=)
 - [Atcoder](https://atcoder.jp/)
 - [Codeforces](https://codeforces.com/)
@@ -910,5 +914,4 @@ Some data mining competition platforms
 - [DataSciencelab](https://datasciencelab.wordpress.com/)
 - [PhysicsForum](https://www.physicsforums.com/forums/programming-and-computer-science.165/page-3)
 - [Kaggle](https://www.kaggle.com/)
-
 
