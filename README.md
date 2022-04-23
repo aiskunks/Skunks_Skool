@@ -792,6 +792,8 @@ Some data mining competition platforms
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
+- [Awesome Algorithm & Data structures Tutorial](https://www.geeksforgeeks.org/)
+- [Awesome Algorithm Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
 ## Data Science Communities
 - [IBM Data Science Community](https://community.ibm.com/community/user/datascience/home)
@@ -815,6 +817,9 @@ Some data mining competition platforms
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+
+- [Depth- and Breadth-First Search Algorithm Tutorial](https://jeremykun.com/2013/01/22/depth-and-breadth-first-search/)
+
 - [CodeWithMosh Algorithm Forum](https://forum.codewithmosh.com/c/data-structures/14)
 
 - [Swift Forum](https://forums.swift.org/c/related-projects/algorithms/70)
@@ -860,5 +865,4 @@ Some data mining competition platforms
 - [DataSciencelab](https://datasciencelab.wordpress.com/)
 - [PhysicsForum](https://www.physicsforums.com/forums/programming-and-computer-science.165/page-3)
 - [Kaggle](https://www.kaggle.com/)
-
 
