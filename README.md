@@ -839,6 +839,12 @@ Some data mining competition platforms
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+
+- [khanacademy](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [educative](https://www.educative.io/explore?aff=K7qB)
+- [projecteuler](https://projecteuler.net/about)
+- [lintcode](https://www.lintcode.com/problem/?typeId=2)
+
 - [Design and Analysis of Computer Algorithms](https://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html)
 - [The Archive of Interesting Code](https://www.keithschwarz.com/interesting/)
 - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
@@ -921,4 +927,5 @@ Some data mining competition platforms
 - [DataSciencelab](https://datasciencelab.wordpress.com/)
 - [PhysicsForum](https://www.physicsforums.com/forums/programming-and-computer-science.165/page-3)
 - [Kaggle](https://www.kaggle.com/)
+
 
