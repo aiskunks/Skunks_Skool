@@ -702,6 +702,7 @@ Some data mining competition platforms
 - [InnoCentive](https://www.innocentive.com/)
 - [TuneedIT](https://tunedit.org/challenges)
 - [Microprediction](https://www.microprediction.com/python-1)
+- [Hackerrank](https://www.hackerrank.com/contests)
 
 
 # Fun
@@ -818,6 +819,7 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
+- [Kaggles Discussions] (https://www.kaggle.com/discussion)
 
 - [Community Detection Algorithms](https://neo4j.com/developer/graph-data-science/community-detection-graph-algorithms/)
 - [Machine Learning Algorithms for Data Science](https://intellipaat.com/blog/tutorial/data-science-tutorial/data-science-algorithms/)
@@ -839,6 +841,10 @@ Some data mining competition platforms
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+
+- 
+- [Code Project Algorithm Communitiy] (https://www.codeproject.com/Forums/326859/Algorithms)
+
 - [3Blue1Brown](https://www.3blue1brown.com/)
 - [quantconnect](https://www.quantconnect.com/forum/discussions/1/interesting)
 - [codeproject](https://www.codeproject.com/Forums/326859/Algorithms)
@@ -930,5 +936,6 @@ Some data mining competition platforms
 - [DataSciencelab](https://datasciencelab.wordpress.com/)
 - [PhysicsForum](https://www.physicsforums.com/forums/programming-and-computer-science.165/page-3)
 - [Kaggle](https://www.kaggle.com/)
+
 
 
