@@ -19,7 +19,7 @@ TODO - add excellent learning python and R links here
 
 
 
-## Step 2 Build simple supervised models 
+## Step 2 Build simple supervised models
 
 <img src='https://raw.githubusercontent.com/aiskunks/Skunks_Skool/main/Art/Skunks_Skool_Step2.png' />
 
@@ -32,13 +32,13 @@ You can see the examples in python at <a href='https://github.com/aiskunks/Skunk
 
 In particular start with chapters 2, 3, and 4.   
 
-Chapter 2: Statistical Learning  playlist 
+Chapter 2: Statistical Learning  playlist
 https://www.youtube.com/playlist?list=PL5-da3qGB5IDvuFPNoSqheihPOQNJpzyy
 
-Chapter 3: Linear Regression 
+Chapter 3: Linear Regression
 https://www.youtube.com/playlist?list=PL5-da3qGB5IBSSCPANhTgrw82ws7w_or9
 
-Chapter 4: Classification 
+Chapter 4: Classification
 ISLR Chapter 4: Classification https://youtube.com/playlist?list=PL5-da3qGB5IC4vaDba5ClatUmFppXLAh
 
 Step 2 specifics.
@@ -61,7 +61,7 @@ TODO - add links related to linear and logistic regression.
 ## Step 3
 TODO
 
-    
+
 
 ## Resources
 
@@ -117,7 +117,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 ### Semi-Supervised Learning
 
 - S3VM
-- Clustering 
+- Clustering
 - Generative models
 - Low-density separation
 - Laplacian regularization
@@ -842,6 +842,14 @@ Some data mining competition platforms
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
 
+- [Coder](https://coder.com)
+- [hashnode](https://hashnode.com)
+- [sitepoint](https://www.sitepoint.com)
+- [CS career questions] (https://www.reddit.com/r/cscareerquestions/)
+- [leetcode] (https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=)
+- [Algorithms course] (https://www.youtube.com/watch?v=BBpAmxU_NQo)
+
+
 - 
 - [Code Project Algorithm Communitiy] (https://www.codeproject.com/Forums/326859/Algorithms)
 
@@ -936,6 +944,5 @@ Some data mining competition platforms
 - [DataSciencelab](https://datasciencelab.wordpress.com/)
 - [PhysicsForum](https://www.physicsforums.com/forums/programming-and-computer-science.165/page-3)
 - [Kaggle](https://www.kaggle.com/)
-
 
 
