@@ -102,9 +102,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 ### Unsupervised Learning
 - Clustering
-  - [Hierchical clustering](https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec)
-  - [k-means](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)
-  - [Fuzzy clustering](https://medium.com/geekculture/fuzzy-c-means-clustering-fcm-algorithm-in-machine-learning-c2e51e586fff)
+  - Hierchical clustering
+  - k-means
+  - Fuzzy clustering
   - Mixture models
 - Dimension Reduction
   - Principal Component Analysis (PCA)
@@ -133,7 +133,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 - C4.5
 - k-Means
-- SVM:https://scikit-learn.org/stable/modules/svm.html
+- SVM
 - Apriori
 - EM
 - PageRank
@@ -146,10 +146,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 - Multilayer Perceptron
 - Convolutional Neural Network (CNN)
-- Recurrent Neural Network (RNN):https://www.analyticsvidhya.com/blog/2020/02/cnn-vs-rnn-vs-mlp-analyzing-3-types-of-neural-networks-in-deep-learning/
+- Recurrent Neural Network (RNN)
 - Boltzmann Machines
 - Autoencoder
-- Generative Adversarial Network (GAN):https://snfexfab.stanford.edu/docs/report/community-service-extension-request-p-ganalgangan-e-mode-hemt
+- Generative Adversarial Network (GAN)
 - Self-Organized Maps
 
 ## Intensive Programs
@@ -261,7 +261,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 |[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python Data Science Handbook: full text in Jupyter Notebooks|
 | [Shapley](https://github.com/benedekrozemberczki/shapley) | A data-driven framework to quantify the value of classifiers in a machine learning ensemble.  |
 | [DAGsHub](https://dagshub.com) | A platform built on open source tools for data, model and pipeline management.  |
-| [Apache Airflow](https://airflow.apache.org/) | A platform created by the community to programmatically author, schedule and monitor workflows  |
 | [Deepnote](https://deepnote.com) | A new kind of data science notebook. Jupyter-compatible, with real-time collaboration and running in the cloud. |
 | [Valohai](https://valohai.com) | An MLOps platform that handles machine orchestration, automatic reproducibility and deployment. |
 | [PyMC3](https://docs.pymc.io/) | A Python Library for Probabalistic Programming (Bayesian Inference and Machine Learning) |
@@ -299,9 +298,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [RuleFit](https://github.com/christophM/rulefit)
 * [pyGAM](https://github.com/dswah/pyGAM)
 * [Deepchecks](https://github.com/deepchecks/deepchecks)
-* [Numpy](https://github.com/numpy/numpy)
-* [Theano](https://github.com/Theano/Theano)
-* [Tensorflow](https://github.com/tensorflow/tensorflow)
 
 
 ## Deep Learning
@@ -413,6 +409,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
 - [Medium Data Science Topic](https://medium.com/tag/data-science) - Data Science related publications on medium
 - [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications onTowards Data Science
+- [Springer](https://link.springer.com)
+- [ScienceDirect](https://www.sciencedirect.com)
+- [ACM] (https://dl.acm.org)
 
 ## Presentations
 [top](#skunks-skool)
@@ -451,7 +450,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [The Radical AI Podcast](https://www.radicalai.org/)
 - [The Robot Brains Podcast](https://www.therobotbrains.ai/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
-- [DeepMind - An Inside Look](https://www.deepmind.com/the-podcast)
 
 ## Books
 [top](#skunks-skool)
@@ -545,10 +543,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Stories](https://datastori.es/)
 - [Data Science Lab](https://datasciencelab.wordpress.com/)
 
-- [Distill](https://distill.pub/)
-- [Master Theorem](https://www.reddit.com/r/algorithms/comments/tu4t4b/is_it_possible_to_use_the_master_theorem_on/)
-
-
 
 
 ## Facebook Accounts
@@ -636,7 +630,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [WileyEd](https://twitter.com/WileyEd) | Senior Manager - @Seagate Big Data Analytics @McKinsey Alum #BigData + #Analytics Evangelist #Hadoop, #Cloud, #Digital, & #R Enthusiast |
 | [WNYC Data News Team](https://twitter.com/datanews) | The data news crew at @WNYC. Practicing data-driven journalism, making it visual and showing our work. |
 | [Alexey Grigorev](https://twitter.com/Al_Grigor) | Data science author |
-| [Scott Hanselman](https://twitter.com/shanselman) | Programmer Blogger |
 
 
 ## Newsletters
@@ -674,11 +667,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
 - [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
 
-- [Two Minute papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
-
-- [Flow Networks](https://www.youtube.com/watch?v=-aHdi6cmxyk)
-- [Machine Learning with Python](https://www.youtube.com/watch?v=7eh4d6sabA0)
-- [Deep Learning In 5 Minutes](https://www.youtube.com/watch?v=6M5VXKLf4D4)
 
 
 
@@ -702,7 +690,6 @@ Some data mining competition platforms
 - [InnoCentive](https://www.innocentive.com/)
 - [TuneedIT](https://tunedit.org/challenges)
 - [Microprediction](https://www.microprediction.com/python-1)
-- [Hackerrank](https://www.hackerrank.com/contests)
 
 
 # Fun
@@ -781,8 +768,6 @@ Some data mining competition platforms
 - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [lists](https://github.com/jnv/lists)
-- [Weight and Bias Blogs](https://wandb.ai/fully-connected)
-- [Numer.ai](https://numer.ai/)
 - [awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz)
 - [awesome-python](https://github.com/vinta/awesome-python)
 - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks)
@@ -807,10 +792,6 @@ Some data mining competition platforms
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
-- [Awesome Algorithm & Data structures Tutorial](https://www.geeksforgeeks.org/)
-- [Awesome Algorithm Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
-
-- 
 
 ## Data Science Communities
 - [IBM Data Science Community](https://community.ibm.com/community/user/datascience/home)
@@ -819,23 +800,6 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
-- [Kaggles Discussions] (https://www.kaggle.com/discussion)
-
-- [Community Detection Algorithms](https://neo4j.com/developer/graph-data-science/community-detection-graph-algorithms/)
-- [Machine Learning Algorithms for Data Science](https://intellipaat.com/blog/tutorial/data-science-tutorial/data-science-algorithms/)
-- [8 Clustering Algorithms in Machine Learning that All Data Scientists Should Know](https://www.freecodecamp.org/news/8-clustering-algorithms-in-machine-learning-that-all-data-scientists-should-know/)
-
-- [Kaggle-Data Science Community](https://www.kaggle.com/discussion?tags=13302-Classification)
-- [AWS-Dats Science Comminty](https://aws.amazon.com/machine-learning/ml-community/)
-
-- [Wolfram Forum](https://community.wolfram.com/content?curTag=data%20science)
-- [Qora Forum](https://www.quora.com/topic/Machine-Learning)
-
-- [DataScience Salon Community] (https://community.datascience.salon/)
-- [ML AI] (http://ml-ai-invite.herokuapp.com/)
-- [Vaticle] (https://blog.vaticle.com/)
-
-
 
 ## Algorithm Communities
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
@@ -947,5 +911,4 @@ Some data mining competition platforms
 - [DataSciencelab](https://datasciencelab.wordpress.com/)
 - [PhysicsForum](https://www.physicsforums.com/forums/programming-and-computer-science.165/page-3)
 - [Kaggle](https://www.kaggle.com/)
-
 
