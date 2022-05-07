@@ -19,7 +19,7 @@ TODO - add excellent learning python and R links here
 
 
 
-## Step 2 Build simple supervised models 
+## Step 2 Build simple supervised models
 
 <img src='https://raw.githubusercontent.com/aiskunks/Skunks_Skool/main/Art/Skunks_Skool_Step2.png' />
 
@@ -32,13 +32,13 @@ You can see the examples in python at <a href='https://github.com/aiskunks/Skunk
 
 In particular start with chapters 2, 3, and 4.   
 
-Chapter 2: Statistical Learning  playlist 
+Chapter 2: Statistical Learning  playlist
 https://www.youtube.com/playlist?list=PL5-da3qGB5IDvuFPNoSqheihPOQNJpzyy
 
-Chapter 3: Linear Regression 
+Chapter 3: Linear Regression
 https://www.youtube.com/playlist?list=PL5-da3qGB5IBSSCPANhTgrw82ws7w_or9
 
-Chapter 4: Classification 
+Chapter 4: Classification
 ISLR Chapter 4: Classification https://youtube.com/playlist?list=PL5-da3qGB5IC4vaDba5ClatUmFppXLAh
 
 Step 2 specifics.
@@ -61,7 +61,7 @@ TODO - add links related to linear and logistic regression.
 ## Step 3
 TODO
 
-    
+
 
 ## Resources
 
@@ -117,7 +117,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 ### Semi-Supervised Learning
 
 - S3VM
-- Clustering 
+- Clustering
 - Generative models
 - Low-density separation
 - Laplacian regularization
@@ -409,6 +409,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
 - [Medium Data Science Topic](https://medium.com/tag/data-science) - Data Science related publications on medium
 - [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications onTowards Data Science
+- [Springer](https://link.springer.com)
+- [ScienceDirect](https://www.sciencedirect.com)
+- [ACM] (https://dl.acm.org)
 
 ## Presentations
 [top](#skunks-skool)
@@ -802,4 +805,110 @@ Some data mining competition platforms
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+- [CommonLounge Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36/43c77756a3e045ee948988dd58c7757a)
+- [CodeProject Community](https://www.codeproject.com/script/Answers/List.aspx?tab=active)
+- [DEV Community for Algorithms](https://dev.to/t/algorithms)
+
+- [Coder](https://coder.com)
+- [hashnode](https://hashnode.com)
+- [sitepoint](https://www.sitepoint.com)
+- [CS career questions] (https://www.reddit.com/r/cscareerquestions/)
+- [leetcode] (https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=)
+- [Algorithms course] (https://www.youtube.com/watch?v=BBpAmxU_NQo)
+
+
+- 
+- [Code Project Algorithm Communitiy] (https://www.codeproject.com/Forums/326859/Algorithms)
+
+- [3Blue1Brown](https://www.3blue1brown.com/)
+- [quantconnect](https://www.quantconnect.com/forum/discussions/1/interesting)
+- [codeproject](https://www.codeproject.com/Forums/326859/Algorithms)
+
+- [khanacademy](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [educative](https://www.educative.io/explore?aff=K7qB)
+- [projecteuler](https://projecteuler.net/about)
+- [lintcode](https://www.lintcode.com/problem/?typeId=2)
+
+- [Design and Analysis of Computer Algorithms](https://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html)
+- [The Archive of Interesting Code](https://www.keithschwarz.com/interesting/)
+- [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
+- [Solve interesting puzzles or problems](http://delphiforfun.org/default.html)
+
+- https://practice.geeksforgeeks.org/batch/dsa-4
+- https://jovian.ai/learn/data-structures-and-algorithms-in-python
+
+- [LeetCode](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=)
+- [Atcoder](https://atcoder.jp/)
+- [Codeforces](https://codeforces.com/)
+
+- [Algorithm visualizer](https://algorithm-visualizer.org/)
+- [Quantconnect Forum](https://www.quantconnect.com/forum/discussions/1/interesting)
+- [Toptal](https://www.toptal.com/developers/sorting-algorithms)
+
+- [Freecodecamp Alogrithm Tutorials](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [Educative.io Alogrithm Tutorials](https://www.educative.io/courses/visual-introduction-to-algorithms)
+- [Geeksforgeeks Alogrithm Tutorials](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+
+- [LeetCode](https://leetcode.com/)
+- [Timus Online Judge](https://acm.timus.ru/)
+- [Sphere online judge](https://www.spoj.com/)
+
+- [Exercism Algorithm Community](https://exercism.org/)
+- [Techie Delight Community](https://www.techiedelight.com/)
+- [Khan Academy Community](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [Algorithm Basics](https://tutorialspoint.dev/algorithm/algorithms)
+- [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
+- [Alogrithm Challenges](https://www.learneroo.com/subjects/8)
+
+- [Data Structures](https://brilliant.org/courses/computer-science-fundamentals/)
+- [Algorithms Hands on](https://projecteuler.net/)
+- [Visualizing Algorithms](https://visualgo.net/en)
+
+- [Depth- and Breadth-First Search Algorithm Tutorial](https://jeremykun.com/2013/01/22/depth-and-breadth-first-search/)
+
+- [CodeWithMosh Algorithm Forum](https://forum.codewithmosh.com/c/data-structures/14)
+
+- [Swift Forum](https://forums.swift.org/c/related-projects/algorithms/70)
+- [IBM Algorithmic Technology](https://community.ibm.com/community/user/blogs/matthew-giannelis1/2021/06/13/algorithmic-technology)
+
+- [Merge Sorting A Linked List](https://www.reddit.com/r/algorithms/comments/tqy3lb/question_about_merge_sorting_a_linked_list/)
+- [Dijkstra’s Shortest Path](https://www.reddit.com/r/algorithms/comments/tql7kd/finding_dijkstras_shortest_path/)
+
+- [Hackernoon Algorithm Blogs](https://hackernoon.com/tagged/algorithms)
+- [Algorithms Community Reddit](https://www.reddit.com/r/algorithms/)
+- [Algorithms with Go](https://algorithmswithgo.com/)
+
+-[Coding Blocks](https://discuss.codingblocks.com/c/c-advanced/51)
+-[StuDocs](https://www.studocu.com/en-us/document/university-of-the-people/data-structures-proctored-course/cs3303-data-structure-discussion-forum-unit-2/22649306)
+-[Physics Forum](https://www.physicsforums.com/forums/programming-and-computer-science.165/)
+
+- [Sinclair College](https://www.sinclair.edu/course/params/subject/CIS/courseNo/2207)
+- [Workat.tech](https://workat.tech/problem-solving/article/competitive-programming-complete-roadmap-from-scratch-sbcrmnxb1sfg)
+- [Tinker Hub](https://paths.tinkerhub.org/dsa)
+
+- [URAL](https://acm.timus.ru/)
+- [SPOJ](https://www.spoj.com/)
+- [bigML](https://bigml.com/dashboard/sources/new)
+
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
+- [Swift Forums](https://forums.swift.org/)
+- [DataTalks.Club](https://datatalks.club/)
+
+- [Reddit r/algorithms](https://www.reddit.com/r/algorithms/)
+- [dev.io](https://dev.to/t/algorithms)
+- [Topcoder](https://discussions.topcoder.com/categories/general-algorithm-discussions)
+
+
+
+- https://medium.com/@shalinichandr/principle-of-recursion-a4e13f6c1e5f
+- https://medium.com/@shalinichandr/guidelines-for-asymptotic-analysis-90a77022d36 
+- https://medium.com/@yunhanh/gale-shapley-algorithm-and-stable-matching-dbf1bf748541
+- https://www.youtube.com/watch?v=8hly31xKli0  
+- https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ 
+- https://www.youtube.com/watch?v=0IAPZzGSbME
+
+- [DataCamp](https://www.datacamp.com/blog)
+- [DataSciencelab](https://datasciencelab.wordpress.com/)
+- [PhysicsForum](https://www.physicsforums.com/forums/programming-and-computer-science.165/page-3)
+- [Kaggle](https://www.kaggle.com/)
 
