@@ -4,7 +4,7 @@ Think of a real-world Bernoulli trial other than slots. Remember a Bernoulli tri
 
 Create the simulation and model it. Your simulation MUST have a real-world analogy such as picking a movie, the best ice cream, an online course, etc. Create a folder within https://github.com/aiskunks/Skunks_Skool/tree/main/CSYE_7370/Bandits (Links to an external site.) with the topic of the bandit as its name.
 
-It is OK to use any code that you cite.  For example, from the notebook by Andre Cianflone - Thompson sampling https://github.com/andrecianflone/thompson/blob/master/thompson.ipynb (Links to an external site.)
+It is OK to use any code that you cite.  For example, from the notebook by Andre Cianflone - Thompson sampling https://github.com/andrecianflone/thompson/blob/master/thompson.ipynb .
 
  
 
