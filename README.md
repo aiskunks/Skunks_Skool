@@ -921,3 +921,6 @@ Some data mining competition platforms
 - [PhysicsForum](https://www.physicsforums.com/forums/programming-and-computer-science.165/page-3)
 - [Kaggle](https://www.kaggle.com/)
 
+## Git and GitHub Tutorials
+- [Git Installation and basic clone, add, commit and push](https://www.youtube.com/watch?v=5HLst694D_Y&t=2s)
+- [Git branching and merging](https://www.youtube.com/watch?v=XX-Kct0PfFc&t=389s)
