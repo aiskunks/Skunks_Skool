@@ -486,6 +486,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Regression, a Friendly guide](https://www.manning.com/books/regression-a-friendly-guide) - Early access
 - [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 - [Data Science at the Command Line: Facing the Future with Time-Tested Tools](https://www.oreilly.com/library/view/data-science-at/9781491947845/)
+- [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
+- [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
+- [Learning OpenCV 3 Computer Vision with Python - Second Edition](https://www.amazon.com/Learning-OpenCV-Computer-Vision-Python/dp/1785283847)
 
 
 ## Bloggers
