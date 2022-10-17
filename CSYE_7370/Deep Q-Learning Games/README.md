@@ -9,18 +9,14 @@ Note: I'm changing the assignment to allow only DQL with an Atari-like game as f
 In this assignment, you will apply Deep Q Learning to a game like any of those in the Open AI Gym Atari environments or one that you write from scratch.
 
 
-[https://openai.com/blog/gym-retro/](https://openai.com/blog/gym-retro/)
-
-
+[https://openai.com/blog/gym-retro/](https://openai.com/blog/gym-retro/)<br>
 [https://gym.openai.com/envs/#atari](https://gym.openai.com/envs/#atari)
 
 
 You can create your own game or find a similar Open AI Gym  environments
 
 
-Useful tutorial
-
-
+**Useful Tutorial:**<br>
 Deep Reinforcement Learning for Atari Games Python Tutorial | AI Plays S...
 
 
@@ -28,18 +24,18 @@ Deep Reinforcement Learning for Atari Games Python Tutorial | AI Plays S...
 
 ## Instructions
 
-1. Establish a baseline performance. How well did your Deep Q-learning do on your problem? (5 Points
-For example
+1. Establish a baseline performance. How well did your Deep Q-learning do on your problem? (5 Points)<br>
+    For example
 
-total_episodes = 5000<br>
-total_test_episodes = 100<br>
-max_steps = 99<br>
-learning_rate = 0.7<br>
-gamma = 0.8<br>
-epsilon = 1.0<br>
-max_epsilon = 1.0<br>
-min_epsilon = 0.01<br>
-decay_rate = 0.01 With this baseline performance, our RL program with the Taxi-v2 Toy text gives us a score of 8.13 which is considerably not bad.<br>
+    total_episodes = 5000<br>
+    total_test_episodes = 100<br>
+    max_steps = 99<br>
+    learning_rate = 0.7<br>
+    gamma = 0.8<br>
+    epsilon = 1.0<br>
+    max_epsilon = 1.0<br>
+    min_epsilon = 0.01<br>
+    decay_rate = 0.01 With this baseline performance, our RL program with the Taxi-v2 Toy text gives us a score of 8.13 which is considerably not bad.<br>
 
 
 2. What are the states, the actions, and the size of the Q-table? (5 Points)
@@ -58,6 +54,8 @@ decay_rate = 0.01 With this baseline performance, our RL program with the Taxi-v
  
 
 7. What is the average number of steps taken per episode? (5 Points)
+
+
 8. Does Q-learning use value-based or policy-based iteration? (5 Points)
 Explain, not a yes or no question. 
 
@@ -91,17 +89,14 @@ You must explain what code you wrote and what you have done that is different. F
 
  
 16. Did I explain my code clearly? (10 Points)
-
 Your code review score will be scaled to a range of 0 to 10 and be used for this score.
 
  
 17. Did I explain my licensing clearly? (5 Points)
-
 Failure to cite a clear license will result in a zero for this section.
 
  
 18. Professionalism (10 Points)
-
 Variable naming, style guide, conduct, behavior, and attitude.
 
 
