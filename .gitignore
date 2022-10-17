@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
-
+*.DS_Store
+.DS_Store
 # Compiled Object files
 *.slo
 *.lo
@@ -30,3 +31,5 @@
 *.exe
 *.out
 *.app
+.DS_Store
+CSYE_7370/Bandits/Size of Water Bottle_Bandits/.ipynb_checkpoints/Size_of_Bottled_Water-checkpoint.ipynb
