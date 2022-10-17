@@ -25,7 +25,7 @@ Deep Reinforcement Learning for Atari Games Python Tutorial | AI Plays S...
 ## Instructions
 
 1. Establish a baseline performance. How well did your Deep Q-learning do on your problem? (5 Points)<br>
-    For example
+    *For example
 
     total_episodes = 5000<br>
     total_test_episodes = 100<br>
@@ -35,7 +35,7 @@ Deep Reinforcement Learning for Atari Games Python Tutorial | AI Plays S...
     epsilon = 1.0<br>
     max_epsilon = 1.0<br>
     min_epsilon = 0.01<br>
-    decay_rate = 0.01 With this baseline performance, our RL program with the Taxi-v2 Toy text gives us a score of 8.13 which is considerably not bad.<br>
+    decay_rate = 0.01 With this baseline performance, our RL program with the Taxi-v2 Toy text gives us a score of 8.13 which is considerably not bad.*<br>
 
 
 2. What are the states, the actions, and the size of the Q-table? (5 Points)
