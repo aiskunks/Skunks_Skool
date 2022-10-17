@@ -56,47 +56,46 @@ Deep Reinforcement Learning for Atari Games Python Tutorial | AI Plays S...
 7. What is the average number of steps taken per episode? (5 Points)
 
 
-8. Does Q-learning use value-based or policy-based iteration? (5 Points)
+8. Does Q-learning use value-based or policy-based iteration? (5 Points)<br>
 Explain, not a yes or no question. 
 
-9. Could you use SARSA for this problem? (5 Points)
+9. Could you use SARSA for this problem? (5 Points)<br>
 Explain, not a yes or no question. 
 
 
-10. What is meant by the expected lifetime value in the Bellman equation?
-(5 Points)
-Explain, not a yes or no question. 
-
- 
-11. When would SARSA likely do better than Q-learning? (5 Points)
+10. What is meant by the expected lifetime value in the Bellman equation? (5 Points)<br>
 Explain, not a yes or no question. 
 
  
-12. How does SARSA differ from Q-learning? (5 Points)  
+11. When would SARSA likely do better than Q-learning? (5 Points)<br>
+Explain, not a yes or no question. 
+
+ 
+12. How does SARSA differ from Q-learning? (5 Points)<br> 
 Details including pseudocode and math.
 
  
-13. Explain the Q-learning algorithm. (5 Points)  
+13. Explain the Q-learning algorithm. (5 Points)<br>
 Details including pseudocode and math. 
 
  
-14. Explain the SARSA algorithm. (5 Points)  
+14. Explain the SARSA algorithm. (5 Points)<br>
 Details including pseudocode and math. 
 
  
-15. What code is yours and what have you adapted? (5 Points)
+15. What code is yours and what have you adapted? (5 Points)<br>
 You must explain what code you wrote and what you have done that is different. Failure to cite ANY code will result in a zero for this section.
 
  
-16. Did I explain my code clearly? (10 Points)
+16. Did I explain my code clearly? (10 Points)<br>
 Your code review score will be scaled to a range of 0 to 10 and be used for this score.
 
  
-17. Did I explain my licensing clearly? (5 Points)
+17. Did I explain my licensing clearly? (5 Points)<br>
 Failure to cite a clear license will result in a zero for this section.
 
  
-18. Professionalism (10 Points)
+18. Professionalism (10 Points)<br>
 Variable naming, style guide, conduct, behavior, and attitude.
 
 
