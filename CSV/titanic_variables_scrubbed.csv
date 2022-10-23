@@ -1,0 +1,2 @@
+Survived,Sex,Cabin,Age,PassengerId,Fare,Pclass,Ticket,Embarked,SibSp
+enum,enum,enum,real,int,real,int,int,enum,int
