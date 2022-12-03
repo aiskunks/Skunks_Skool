@@ -9,7 +9,7 @@ see https://www.kaggle.com/nikbearbrown/tmnist-alphabet-94-characters <br>
 https://github.com/aiskunks/AI_Research/tree/main/dc-gan-best-practices
 
 
-Generative Architecture (60 Points)
+Generative Architecture (60 Points)<br>
 Use a generative architecture (Autoencoders, GANs, VAEs, Diffusion Models)<br>
 Create at least 40 fake images using ONE of the generative architectures. How well did it do?  Adjust the size of the latent space. Change the network architecture. What combination of network architecture and latent space size gives the best trade-off between compression and quality?
 
