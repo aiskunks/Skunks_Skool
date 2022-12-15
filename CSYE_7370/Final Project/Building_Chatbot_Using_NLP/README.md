@@ -1,5 +1,6 @@
-![Screenshot](chatbot.png)
+Poojitha Konduparti
 
+![Screenshot](chatbot.png)
 
 ## Introduction 
 
