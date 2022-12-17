@@ -7,6 +7,9 @@ Data Source: Garbage Classification https://www.kaggle.com/datasets/asdasdasasda
 PS. We uploaded the whole project in Canvas, and only uploaded two core models of .ipynb files on github. Our processed data for YOLOv5 model will be train_data.zip file under file we submitted in canvas.
 
 
+We have added more complete model training results and model performance evaluation graphs to the report.
+
+
 Some predicted results are showed below:
 
 
