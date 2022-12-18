@@ -1,4 +1,0 @@
-train: ./train.txt
-val: ./val.txt
-nc: 3
-names: ["Cross","Chimney","Stair"]
