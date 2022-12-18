@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ba0c687-25e3-4489-9e60-4f2ba84671b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Add 3 community links related to algorithms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Art/AI_Skunks_Remy_Choice.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Art/Skunks_Skool_Analysis_Pipeline.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Art/Skunks_Skool_Base.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Art/Skunks_Skool_Step1.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Art/Skunks_Skool_Step1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Art/Skunks_Skool_Step2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2DV_Data_Visualization/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2DV_Data_Visualization/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Chapter_01_Introduction.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Chapter_02_Statistical_Learning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Chapter_03_Linear_Regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Chapter_04_Classification.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Chapter_05_Resampling_Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Chapter_06_Linear_Model_Selection_and_Regularization.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Chapter_07_Model_Beyond_Linearity.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Chapter_08_Tree_Based_Methods.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Chapter_09_Support_Vector_Machine.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Chapter_10_Unsupervised_Learning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Lecture-Slides/C1-Introduction.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Lecture-Slides/C10-Unsupervised-Learning.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Lecture-Slides/C2-Statistical-Learning.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Lecture-Slides/C3-Linear-Regression.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Lecture-Slides/C4-Classification.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Lecture-Slides/C5-Resampling-Methods.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Lecture-Slides/C6-Model-Selection.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Lecture-Slides/C7-Moving-Beyond-Linearity.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Lecture-Slides/C8-Tree-Based-Methods.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/Lecture-Slides/C9-Support-Vector-Machine.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/Advertising.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/Credit.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/auto.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/boston.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/caravan.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/carseats.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/college.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/default.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/heart.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/hitters.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/khan_xtest.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/khan_xtrain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/khan_ytest.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/khan_ytrain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/nci60_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/nci60_labs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/portfolio.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/smarket.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/titanic.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/usarrests.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/wage.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/data/weekly.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/images/1-bias-variance-tradeoff.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/images/Chapter 3 - 7 proof.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/images/Chapter_2/Linear.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/images/Chapter_2/Quadratic.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/images/Chapter_2/curse_of_dimension.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/images/Chapter_2/f_x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/images/Chapter_2/f_x_estimate.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/images/carseats_tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/images/ch1_pg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/images/decision.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/images/knn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/images/ridge.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/I2A_Algorithms/I2A_Dynamic_Programming/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/I2A_Algorithms/I2A_Dynamic_Programming/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/I2SL_Statistical_Learning/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/I2SL_Statistical_Learning/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/I2SL_Statistical_Learning/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28cdZV3sFASqDXAfcaUdhTv3MzE" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ba0c687-25e3-4489-9e60-4f2ba84671b1" name="Changes" comment="" />
+      <created>1651519871406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651519871406</updated>
+      <workItem from="1651519878474" duration="74000" />
+    </task>
+    <servers />
+  </component>
+</project>

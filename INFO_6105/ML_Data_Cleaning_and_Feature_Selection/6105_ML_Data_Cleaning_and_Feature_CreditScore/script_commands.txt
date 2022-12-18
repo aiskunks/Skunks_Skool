@@ -1,0 +1,19 @@
+python train.py -h
+python train.py --include-outliers --remove-percent 0 --fillna-method None --normal-process 
+python train.py -h
+python train.py --include-outliers --remove-percent 0 --fillna-method None --normal-process
+python train.py --exclude-outliers --remove-percent 0 --fillna-method None --normal-process
+python train.py --exclude-outliers --remove-percent 0 --fillna-method None --normal-process
+python train.py -h
+python train.py --exclude-outliers --remove-percent 0 --fillna-method None --normal-process
+python train.py -h
+python train.py --include-outliers --remove-percent 0 --fillna-method None --normal-process
+python train.py --exclude-outliers --remove-percent 1 --fillna-method bfill
+python train.py --exclude-outliers --remove-percent 5 --fillna-method bfill
+python train.py --exclude-outliers --remove-percent 10 --fillna-method bfill
+python train.py --exclude-outliers --remove-percent 1 --fillna-method mode
+python train.py --exclude-outliers --remove-percent 5 --fillna-method mode
+python train.py --exclude-outliers --remove-percent 10 --fillna-method mode
+python train.py --exclude-outliers --remove-percent 1 --fillna-method ffill
+python train.py --exclude-outliers --remove-percent 5 --fillna-method ffill
+python train.py --exclude-outliers --remove-percent 10 --fillna-method ffill
