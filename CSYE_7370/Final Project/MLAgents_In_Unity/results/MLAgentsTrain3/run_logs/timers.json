@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1671071137",
+        "python_version": "3.9.7 (default, Sep 16 2021, 23:53:23) \n[Clang 12.0.0 ]",
+        "command_line_arguments": "/Users/jaydevnani/opt/miniconda3/envs/unity-mla/bin/mlagents-learn /Users/jaydevnani/Downloads/AI-Racing-Karts-main/Kart Agent.yaml --run-id=MLAgentsTrain3",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.11.0",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1671071160"
+    },
+    "total": 23.14033,
+    "count": 1,
+    "self": 0.010568415999998138,
+    "children": {
+        "run_training.setup": {
+            "total": 0.01296370899999999,
+            "count": 1,
+            "self": 0.01296370899999999
+        },
+        "TrainerController.start_learning": {
+            "total": 23.116797875,
+            "count": 1,
+            "self": 0.001094664999996553,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 23.115661084000003,
+                    "count": 1,
+                    "self": 23.115661084000003
+                },
+                "trainer_threads": {
+                    "total": 1.5419999996879596e-06,
+                    "count": 1,
+                    "self": 1.5419999996879596e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 4.058400000062079e-05,
+                    "count": 1,
+                    "self": 4.058400000062079e-05
+                }
+            }
+        }
+    }
+}
