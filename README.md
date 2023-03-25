@@ -797,6 +797,11 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
+- [Data Talks](https://datatalks.club/)
+- [Open Data Science](https://opendatascience.com/)
+- [Data Nation](https://discord.com/channels/789981463243522119/790217139470598175)
+- [Data Leaders](https://dataleaders.net/community/)
+- [Stanford Data Science](https://datascience.stanford.edu/programs/data-science-collaboratory) 
 
 ## Algorithm Communities
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
